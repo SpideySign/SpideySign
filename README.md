@@ -1,6 +1,5 @@
 <h1>Hi, I'm Nik! <br/><a href="https://github.com/SpideySign">
-
-<h2>👨‍💻 Cybersecurity Bootcamp Projects:</h2>
+   <h2>👨‍💻 Cybersecurity Bootcamp Projects:</h2>
 
 - <b>.. (..)</b>
   - [..](https://github.com/SpideySign/)
